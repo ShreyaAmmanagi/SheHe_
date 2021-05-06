@@ -1,0 +1,82 @@
+.divA{
+    background-color: pink;
+    padding: 3px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'ink free';
+}
+.divZ{
+    margin-left: 12cm;
+    color: palevioletred;
+    font-family: 'ink free';
+    font-size: 50px;
+}
+p{
+    font-family: 'courier new';
+}
+::selection{
+    background-color: rgb(182, 121, 231);
+}
+a{
+    color: palevioletred;
+    text-decoration-line: none ;
+}
+
+.divAZ:hover{
+    background-color: peachpuff;
+ text-decoration-line: overline;
+    text-decoration-style:double;
+    transition-duration: 1s;
+
+}
+.divB2{
+    font-family: 'ink free';
+    color: purple;
+    font-size: 30px;
+}
+.div09{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(6, 25, 129);
+}
+.div01{
+    background-color: rgb(245, 75, 199);
+    padding:5px;
+    border-radius: 50px;
+    border-style: ridge;
+    border-width: 20px;
+    opacity: 0.4;
+    font-family: 'ink free';
+    color: rgb(137, 221, 255);
+}
+.div01:hover{
+    opacity: 1;
+    transition-duration: 1s;
+}
+.divA:hover{
+    transform: scale(1.05);
+    transition-duration: 1s;
+}
+.divNA,p{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.divB{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: rgb(230, 8, 82);
+
+}
+.divA1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(248, 80, 136);
+}
+.divAN:hover{
+    background-color: rgb(230, 199, 209);
+    transition-duration: 1s;
+    
+}
+.divAN{
+    font-family: 'Courier New', Courier, monospace;
+       color: rgb(230, 8, 82);
+
+}
